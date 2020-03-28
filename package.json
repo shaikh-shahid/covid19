@@ -1,0 +1,41 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "Track the Coronavirus disease (COVID-19).",
+  "main": "app.js",
+  "bin": {
+    "covid19": "app.js"
+  },
+  "keywords": [
+    "corona-cli",
+    "coronavirus",
+    "corona",
+    "coronavirus-tracking",
+    "coronavirus-real-time",
+    "coronavirus-analysis",
+    "coronavirus-info",
+    "covid-19",
+    "covid-19",
+    "covid19",
+    "coronavirus",
+    "cdc",
+    "cdc",
+    "novel",
+    "corona",
+    "virus",
+    "Ahmad Awais",
+    "ahmadawais"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahid Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^3.0.0",
+    "cli-table3": "^0.5.1",
+    "log-symbols": "^3.0.0",
+    "ora": "^4.0.3"
+  }
+}
