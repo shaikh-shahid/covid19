@@ -24,6 +24,6 @@ Example:
 
 ```corona us```
 
-![command output](/images/output.gif)
+![command output](https://raw.githubusercontent.com/codeforgeek/covid19/master/images/output.gif)
 
 
