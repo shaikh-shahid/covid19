@@ -8,7 +8,7 @@ Get country wide coronavirus latest data in your command line or terminal. Data 
 
 Run the following command in your terminal/command prompt.
 
-```npm i --g covid19```
+```npm i --g corona-stats```
 
 ## Usage
 
@@ -17,13 +17,13 @@ Run the command with the country name.
 ```
 #country name such as us,india,uk,uae etc...
 
-covid 19 < country name >
+corona < country name >
 ```
 
 Example:
 
-```covid19 us```
+```corona us```
 
-![alt text](/images/output.gif)
+![command output](/images/output.gif)
 
 
