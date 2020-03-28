@@ -1,5 +1,5 @@
 {
-  "name": "covid19-cli",
+  "name": "corona-stats",
   "version": "1.0.0",
   "description": "Track the Coronavirus disease (COVID-19).",
   "main": "app.js",
